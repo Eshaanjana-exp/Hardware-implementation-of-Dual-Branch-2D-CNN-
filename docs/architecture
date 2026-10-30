@@ -157,5 +157,6 @@ This output represents the combined features extracted by both convolution branc
 
 ## 11. Architecture Diagram
 
+Add the overall architecture diagram here:
 
-
+`![Dual-Branch CNN Architecture](../images/architecture.png)`
