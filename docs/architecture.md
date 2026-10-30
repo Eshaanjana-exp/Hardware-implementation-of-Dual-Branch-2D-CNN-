@@ -157,8 +157,6 @@ This output represents the combined features extracted by both convolution branc
 
 ## 11. Architecture Diagram
 
-Add the overall architecture diagram here:
+The following diagram illustrates the overall dual-branch CNN hardware architecture.
 
-`![Dual-Branch CNN Architecture](../images/HARDWARE ARCHITECTURE.png)`
-
-Additional diagrams can be included for the individual PQP, SZW and Add-Pool modules.
+![Dual-Branch CNN Architecture](../images/HARDWARE%20ARCHITECTURE.png)
