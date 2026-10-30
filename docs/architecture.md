@@ -159,6 +159,6 @@ This output represents the combined features extracted by both convolution branc
 
 Add the overall architecture diagram here:
 
-`![Dual-Branch CNN Architecture](../HARDWARE%20ARCHITECTURE.png)`
+`![Dual-Branch CNN Architecture](../images/HARDWARE%20ARCHITECTURE.png)`
 
 Additional diagrams can be included for the individual PQP, SZW and Add-Pool modules.
