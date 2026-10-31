@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+opencv-python-headless
+wfdb
+tensorflow>=2.16
