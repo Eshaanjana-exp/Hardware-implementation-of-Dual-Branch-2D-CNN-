@@ -91,7 +91,7 @@ The design was evaluated through:
 ## Repository Structure
 
 - `rtl/` – Verilog RTL modules.
-- `testbench/` – Simulation testbenches.
+- `tb/` – Simulation testbenches.
 - `python/` – Supporting Python scripts, if applicable.
 - `results/` – Simulation outputs and performance reports.
 - `docs/` – Architecture and implementation documentation.
