@@ -105,7 +105,8 @@ Simulation waveforms are organised in the `results/simulation/` directory.
 ## 10. PS–PL Integration
 
 The custom PQP hardware was packaged as an AXI-based IP core and integrated with the Zynq Processing System using Vivado IP Integrator.
-![PS PL INTEGRATED DESIGN](../images/PS-PL DESIGN.png)
+![PS PL INTEGRATED DESIGN](../images/PS-PL%20DESIGN.png)
+
 The block design includes:
 
 - Zynq7 Processing System (`processing_system7_0`).
