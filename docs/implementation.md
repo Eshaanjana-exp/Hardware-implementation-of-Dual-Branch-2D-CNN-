@@ -143,8 +143,4 @@ The hardware implementation follows these stages:
 | Design tool | Xilinx Vivado |
 | Hardware description | Verilog HDL |
 
-## 13. Reproducibility
 
-To reproduce the design, use the Verilog source files, testbenches, required memory initialisation files and Vivado configuration files provided in this repository.
-
-The exact Vivado version, device part number and any required IP dependencies should be specified in the main README or the relevant implementation instructions.
