@@ -92,9 +92,7 @@ The design was evaluated through:
 
 - `rtl/` – Verilog RTL modules.
 - `testbench/` – Simulation testbenches.
-- `vivado/` – FPGA integration files and configuration.
 - `python/` – Supporting Python scripts, if applicable.
-- `data/` – Sample input data and instructions.
 - `results/` – Simulation outputs and performance reports.
 - `docs/` – Architecture and implementation documentation.
 - `images/` – Architecture diagrams and experimental setup.
