@@ -143,4 +143,8 @@ The hardware implementation follows these stages:
 | Design tool | Xilinx Vivado |
 | Hardware description | Verilog HDL |
 
+## 13. Experimental Setup
+The experimental setup shown in the figure illustrates the FPGA development board connected to the host computer for the hardware demonstration.
+<img width="1496" height="751" alt="image" src="https://github.com/user-attachments/assets/d76708a3-aafe-44e3-8db1-7abe1361a9ca" />
+
 
