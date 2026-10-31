@@ -6,7 +6,7 @@ This directory contains the simulation outputs, generated feature maps and FPGA 
 
 The simulation waveforms demonstrate the functional behaviour of the Dual branch PQP convolution.
 
-![RTL Simulation of final layer](../images/FINAL%20LAYER%20SIM.png) 
+![RTL Simulation of final layer](../images/PQP%20SIM.png) 
 This picture illustrates the signals involved in the convolution module during RTL simulation. The signals labelled Pixel Values represent the input pixel data, while the Weights signals represent the kernel coefficients used in the convolution operation. 
 By comparing these outputs with the expected convolution calculations, the functional behavior of the module is verified for the tested inputs.
 
